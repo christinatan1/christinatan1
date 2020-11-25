@@ -1,4 +1,10 @@
-### Hi there 👋
+### hi, I'm Christina! 👋
+
+- 🔭 bachelor of engineering at the University of Michigan, studying Computer Science
+- 🌱 learning about data structures and algorithms 
+- 🧚 interested in web development and UI/UX design
+- 📫 reach me at: ctann@umich.edu
+- 😄 my pronouns are she/her
 
 <!--
 **christinatan1/christinatan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
