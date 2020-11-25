@@ -1,6 +1,6 @@
 ### hi, I'm Christina! 👋
 
-- 📖 i'm pursuing a bachelor of engineering at the university of michigan, studying computer science
+- 📖 i'm pursuing a bachelor of engineering at the University of Michigan, studying computer science
 - 🌱 currently learning about data structures and algorithms 
 - 🐣 i'm interested in web development and UI/UX design
 - 📫 reach me at: **ctann@umich.edu**
