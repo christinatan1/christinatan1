@@ -2,7 +2,7 @@
 
 - 📖 i'm pursuing a bachelor of engineering at the University of Michigan, studying computer science
 - 🌱 currently learning about data structures and algorithms 
-- 🐣 i'm interested in web development and UI/UX design
+- 🐣 i'm interested in web development and UX/UI design
 - 📫 reach me at: **ctann@umich.edu**
 - 😄 my pronouns are she/her/hers
 
